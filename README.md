@@ -1,2 +1,4 @@
 # PRODIGY_DS_1
 Using the pre-existing women dataset in R, we can create informative visualizations such as bar charts and histograms to analyze data on women's heights and weights. A bar chart effectively displays the distribution of categorical data by representing different height values as rectangular bars, illustrating their frequencies. On the other hand, a histogram provides insight into the distribution of continuous data by dividing the height or weight measurements into bins, showing the frequency of data points within each bin. These visualizations help in understanding the overall distribution and identifying patterns or anomalies within the dataset.
+![image](https://github.com/user-attachments/assets/336a7c2c-870c-4506-ad43-c83f1a44651c)
+![image](https://github.com/user-attachments/assets/5e045b15-41c2-41d0-a26b-4065059a4c4f)
