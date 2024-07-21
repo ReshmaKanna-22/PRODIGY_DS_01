@@ -2,8 +2,3 @@ data=women
 data
 chart1=barplot(data$height,col="red",main="Bar Chart",xlab="Height",ylab="Weight")
 chart2=hist(data$weight,col ="blue",main="Histogram",xlab="Height",ylab="Weight")
-
-#output
-
-![image](https://github.com/user-attachments/assets/336a7c2c-870c-4506-ad43-c83f1a44651c)
-![image](https://github.com/user-attachments/assets/5e045b15-41c2-41d0-a26b-4065059a4c4f)
